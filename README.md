@@ -16,3 +16,8 @@ Build application in the `dist` folder
 ```
 npm run build
 ```
+
+
+## Start a new project
+
+You can clone this repository, and remove the `.git` folder to start a new fresh project
