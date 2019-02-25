@@ -1,0 +1,12 @@
+.Square {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+
+  &--red {
+    background-color: red;
+  }
+  &--green{
+    background-color: green;
+  }
+}

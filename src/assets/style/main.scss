@@ -1,0 +1,12 @@
+@import "base/variables";
+@import "base/normalize";
+@import "base/init";
+@import "base/reset";
+@import "base/utilities";
+
+
+@import "components/square";
+
+.WithBorder {
+  border: 1px solid #bfbfbf;
+}
